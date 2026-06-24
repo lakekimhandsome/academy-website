@@ -768,6 +768,40 @@ img {
   border-top: 1px solid var(--border-light);
 }
 
+.footer-copy a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  transition: color 0.2s;
+}
+
+.footer-copy a:hover {
+  color: var(--primary);
+}
+
+.site-footer {
+  margin-top: 32px;
+  padding: 24px 20px;
+  border-top: 1px solid var(--border-light);
+  text-align: center;
+}
+
+.site-footer__copy {
+  font-size: 0.75rem;
+  color: var(--text-light);
+}
+
+.site-footer__copy a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  transition: color 0.2s;
+}
+
+.site-footer__copy a:hover {
+  color: var(--primary);
+}
+
 /* Modal */
 .modal-overlay {
   position: fixed;
