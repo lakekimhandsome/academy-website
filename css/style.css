@@ -446,15 +446,15 @@ img {
 }
 
 .teacher-avatar--1 {
-  background: linear-gradient(135deg, #dbeafe 0%, #bfdbfe 100%);
+  background-image: url('https://plus.unsplash.com/premium_photo-1661590863910-69abf33b8f3f?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
 }
 
 .teacher-avatar--2 {
-  background: linear-gradient(135deg, #e0e7ff 0%, #c7d2fe 100%);
+  background-image: url('https://plus.unsplash.com/premium_photo-1661774920238-e8fef8f4a6df?q=80&w=2664&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
 }
 
 .teacher-avatar--3 {
-  background: linear-gradient(135deg, #d1fae5 0%, #a7f3d0 100%);
+  background-image: url('https://images.unsplash.com/photo-1573496799652-408c2ac9fe98?q=80&w=1738&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
 }
 
 .teacher-body {
